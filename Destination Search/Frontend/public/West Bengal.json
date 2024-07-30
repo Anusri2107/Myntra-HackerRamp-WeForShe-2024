@@ -1,0 +1,79 @@
+[
+    {
+      "id":"1",
+      "name":"Bengali Saree",
+      "img":"../src/assets/West Bengal/1.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"2",
+      "name":"Bengali Dress for Men",
+      "img":"../src/assets/West Bengal/2.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"3",
+      "name":"Bengali Saree",
+      "img":"../src/assets/West Bengal/3.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"4",
+      "name":"Bengali Saree",
+      "img":"../src/assets/West Bengal/4.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"5",
+      "name":"Bengali Saree",
+      "img":"../src/assets/West Bengal/5.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"6",
+      "name":"Bengali Saree",
+      "img":"../src/assets/West Bengal/6.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"7",
+      "name":"Bengali Dress for Men",
+      "img":"../src/assets/West Bengal/7.jpg",
+      "place":"West Bengal",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    }
+  ]

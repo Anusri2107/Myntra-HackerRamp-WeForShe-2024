@@ -1,0 +1,112 @@
+[
+    {
+      "id":"1",
+      "name":"Kanchivaram Saree",
+      "img":"../src/assets/Tamil Nadu/1.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"2",
+      "name":"Kanchivaram Saree",
+      "img":"../src/assets/Tamil Nadu/2.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"3",
+      "name":"Shirt and Lungi for Men",
+      "img":"../src/assets/Tamil Nadu/3.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"4",
+      "name":"Kanchivaram Saree",
+      "img":"../src/assets/Tamil Nadu/4.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"5",
+      "name":"Kanchivaram Saree",
+      "img":"../src/assets/Tamil Nadu/5.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"6",
+      "name":"Shirt and Lungi for Men",
+      "img":"../src/assets/Tamil Nadu/6.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"7",
+      "name":"Shirt and Lungi for Men",
+      "img":"../src/assets/Tamil Nadu/7.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"8",
+      "name":"Shirt and Lungi for Men",
+      "img":"../src/assets/Tamil Nadu/8.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"9",
+      "name":"Kanchivaram Saree",
+      "img":"../src/assets/Tamil Nadu/9.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"10",
+      "name":"Shirt and Lungi for Men",
+      "img":"../src/assets/Tamil Nadu/10.jpg",
+      "place":"Tamil Nadu",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    }
+  ]

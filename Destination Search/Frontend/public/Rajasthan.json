@@ -1,0 +1,101 @@
+[
+  {
+    "id":"1",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/1.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"2",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/2.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"3",
+    "name":"Rajasthani Angarakha with Dhoti",
+    "img":"../src/assets/Rajasthan/3.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"4",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/4.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"5",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/5.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"6",
+    "name":"Rajasthani Angarakha with Dhoti",
+    "img":"../src/assets/Rajasthan/6.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"7",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/7.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"8",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/8.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"9",
+    "name":"Ghagra Choli with Odhani",
+    "img":"../src/assets/Rajasthan/9.jpg",
+    "place":"Rajasthan",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  }
+]

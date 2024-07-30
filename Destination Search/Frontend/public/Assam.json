@@ -1,0 +1,90 @@
+[
+  {
+    "id":"1",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/1.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"2",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/2.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"3",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/3.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"4",
+    "name":"Tai Ahom Ethnic Male Wear",
+    "img":"../src/assets/Assam/4.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"5",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/5.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"6",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/6.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"7",
+    "name":"Mekhala Chador",
+    "img":"../src/assets/Assam/7.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"8",
+    "name":"Tai Ahom Ethnic Male Wear",
+    "img":"../src/assets/Assam/8.jpg",
+    "place":"Assam",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  }
+]

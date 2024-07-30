@@ -1,0 +1,90 @@
+[
+    {
+      "id":"1",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/1.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"2",
+      "name":"Kashmiri Dress for Men",
+      "img":"../src/assets/Jammu&Kashmir/2.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    },
+    {
+      "id":"3",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/3.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"4",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/4.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"5",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/5.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"6",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/6.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"7",
+      "name":"Kashmiri Dress for Women",
+      "img":"../src/assets/Jammu&Kashmir/7.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Women"
+    },
+    {
+      "id":"8",
+      "name":"Kashmiri Dress for Men",
+      "img":"../src/assets/Jammu&Kashmir/8.jpg",
+      "place":"Jammu & Kashmir",
+      "price":"1999",
+      "mrp":"3999",
+      "discount":"50",
+      "purl":"",
+      "category":"Men"
+    }
+  ]

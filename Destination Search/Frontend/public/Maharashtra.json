@@ -1,0 +1,134 @@
+[
+  {
+    "id":"1",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/1.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"2",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/2.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"3",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/3.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"4",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/4.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"5",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/5.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"6",
+    "name":"Peshwai Dress for Men",
+    "img":"../src/assets/Maharashtra/6.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"7",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/7.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"8",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/8.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"9",
+    "name":"Peshwai Dress for Men",
+    "img":"../src/assets/Maharashtra/9.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"10",
+    "name":"Peshwai Dress for Men",
+    "img":"../src/assets/Maharashtra/10.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"11",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/11.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"12",
+    "name":"Nauvari Saree",
+    "img":"../src/assets/Maharashtra/12.jpg",
+    "place":"Maharashtra",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  }
+]

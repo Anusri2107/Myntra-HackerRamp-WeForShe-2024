@@ -1,0 +1,112 @@
+[
+  {
+    "id":"1",
+    "name":"Kediyu Gujarati Dress for Men",
+    "img":"../src/assets/Gujarat/1.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"2",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/2.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"3",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/3.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"4",
+    "name":"Kediyu Gujarati Dress for Men",
+    "img":"../src/assets/Gujarat/4.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"5",
+    "name":"Kediyu Gujarati Dress for Men",
+    "img":"../src/assets/Gujarat/5.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Men"
+  },
+  {
+    "id":"6",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/6.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"7",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/7.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"8",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/8.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"9",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/9.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  },
+  {
+    "id":"10",
+    "name":"Ghagra Choli",
+    "img":"../src/assets/Gujarat/10.jpg",
+    "place":"Gujarat",
+    "price":"1999",
+    "mrp":"3999",
+    "discount":"50",
+    "purl":"",
+    "category":"Women"
+  }
+]
